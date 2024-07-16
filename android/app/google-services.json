@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "168210903241",
+    "firebase_url": "https://detectoragua-default-rtdb.firebaseio.com",
+    "project_id": "detectoragua",
+    "storage_bucket": "detectoragua.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168210903241:android:f1f57e5d2abcfebb471d18",
+        "android_client_info": {
+          "package_name": "com.example.monitor_sensores"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168210903241-g1cvurb05qndvmfucusf0528n5mukhmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7K-wL9Pb25JmM2UyNuYXC8NCmJ0Wh5wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168210903241-g1cvurb05qndvmfucusf0528n5mukhmi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168210903241:android:b2bf59121ac333ae471d18",
+        "android_client_info": {
+          "package_name": "com.isc.monitor_turbidez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168210903241-g1cvurb05qndvmfucusf0528n5mukhmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7K-wL9Pb25JmM2UyNuYXC8NCmJ0Wh5wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168210903241-g1cvurb05qndvmfucusf0528n5mukhmi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
